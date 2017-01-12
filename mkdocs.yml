@@ -1,0 +1,56 @@
+site_name: Apprendre à programmer
+theme: 'material'
+# theme_dir: 'themes/mkdocs-material/material'
+
+site_author: 'El Gadjo Ridículo'
+site_url: 'http://elgadjo.github.io/apprendre-a-programmer'
+
+# copyright: 'Copyright (c) 2016 El Gadjo Ridículo'
+
+repo_name: 'GitHub'
+repo_url: 'https://github.com/elgadjo/apprendre-a-programmer'
+site_favicon: favicon.ico
+
+extra:
+  palette:
+    primary: 'deep purple'
+    accent: 'orange'
+    neutral: 'deep purple'
+  i18n:
+    prev: 'Chapitre précédent'
+    next: 'Chapitre suivant'
+
+extra_css: 
+  - css/extra.css
+
+extra_javascript: 
+  - js/extra.js
+
+#author:
+#  github: 'elgadjo'
+#  twitter: 'elgadjo'
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'
+
+pages: 
+- 'Accueil': index.md
+- 'Généralités':
+    - 'Généralités I': 01-generalites.md
+    - 'Généralités II': 02-generalites.md
+- 'Algorigrammes':
+    - 'Algorigrammes I': 03-algorigrammes.md
+    - 'Algorigrammes II': 04-algorigrammes.md
+    - 'Algorigrammes III': 05-algorigrammes.md
+    - 'Algorigrammes IV': 06-algorigrammes.md
+    - 'Algorigrammes V': 07-algorigrammes.md
+    - 'Exercices': algorigrammes-exercices.md
+- 'Pseudocode':
+    - 'Pseudocode I': 08-pseudocode.md
+  #    - 'Pseudocode II': 09-pseudocode.md
+
