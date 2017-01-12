@@ -1,6 +1,7 @@
 site_name: Apprendre à programmer
-theme: 'material'
+# theme: 'material'
 # theme_dir: 'themes/mkdocs-material/material'
+theme_dir: 'themes/mkdocs-material'
 
 site_author: 'El Gadjo Ridículo'
 site_url: 'http://elgadjo.github.io/apprendre-a-programmer'
