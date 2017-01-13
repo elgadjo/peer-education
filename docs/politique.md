@@ -19,5 +19,10 @@
   Chouard, Etienne - 
   [La véritable démocratie (le tirage au sort)](https://www.youtube.com/watch?v=WNWZaPk3m3I)
 
+## Autonomie
 
+- <i class="fa fa-book"></i> 
+  Bey, Hakim -
+  [TAZ : Zone Autonome Temporaire](
+  https://www.goodreads.com/book/show/26155570-taz-zone-autonome-temporaire)
 

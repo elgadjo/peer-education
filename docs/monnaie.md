@@ -1,7 +1,7 @@
 
 # Monnaie 
 
-## Échanges non-monnétaires
+## Échanges non-monétaires
 
 - <i class="fa fa-book"></i> 
   Mauss, Marcel -
@@ -11,17 +11,20 @@
   Cause Toujours -
   ["Une société non marchande"](https://www.youtube.com/watch?v=aeH5YxC5b8Ev)
   
-- (FIXME) Jeu de la monnaie
+- <i class="fa fa-map"></i> 
+  (FIXME) Jeu de la monnaie
 
 ## Contrepartie de l'activité / du travail
 
-- (FIXME) Tolstoï, Léon - L'argent et le travail
-- (FIXME) Tolstoï, Léon - L'esclavage moderne
+- <i class="fa fa-book"></i> 
+  (FIXME) Tolstoï, Léon - L'argent et le travail
+- <i class="fa fa-book"></i> 
+  (FIXME) Tolstoï, Léon - L'esclavage moderne
 
 ## Dette
 
 - <i class="fa fa-book"></i> 
-  David Groeber -
+  David Graeber -
   [Dette, 5000 ans d'histoire](  
   https://www.goodreads.com/book/show/18722464-dette-5000-ans-d-histoire)
   
