@@ -1,7 +1,8 @@
-site_name: Apprendre à programmer
-# theme: 'material'
+site_name: Education populaire
+
+theme: 'material'
 # theme_dir: 'themes/mkdocs-material/material'
-theme_dir: 'themes/mkdocs-material'
+# theme_dir: 'themes/mkdocs-material'
 
 site_author: 'El Gadjo Ridículo'
 site_url: 'http://elgadjo.github.io/apprendre-a-programmer'
@@ -41,17 +42,7 @@ markdown_extensions:
 
 pages: 
 - 'Accueil': index.md
-- 'Généralités':
-    - 'Généralités I': 01-generalites.md
-    - 'Généralités II': 02-generalites.md
-- 'Algorigrammes':
-    - 'Algorigrammes I': 03-algorigrammes.md
-    - 'Algorigrammes II': 04-algorigrammes.md
-    - 'Algorigrammes III': 05-algorigrammes.md
-    - 'Algorigrammes IV': 06-algorigrammes.md
-    - 'Algorigrammes V': 07-algorigrammes.md
-    - 'Exercices': algorigrammes-exercices.md
-- 'Pseudocode':
-    - 'Pseudocode I': 08-pseudocode.md
-  #    - 'Pseudocode II': 09-pseudocode.md
-
+# - 'Monnaie':
+#     - 'Création': monnaie/creation.md
+#     - 'Revenu de base': monnaie/revenu-de-base.md
+# - 'Education':
