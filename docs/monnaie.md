@@ -1,6 +1,10 @@
 
 # Monnaie 
 
+## Don
+- <i class="fa fa-book"></i> 
+  Marcel Mauss, "Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques"
+
 ## Dette
 
 - <i class="fa fa-film"></i> 
