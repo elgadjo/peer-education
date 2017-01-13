@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Education Populaire\n#\n\n\nPr\u00e9face\n#\n\n\nQuelques ressources sur des sujets du monde.", 
+            "text": "Education Populaire\n#\n\n\nPr\u00e9face\n#\n\n\nQuelques ressources sur divers sujets du monde :-)", 
             "title": "Accueil"
         }, 
         {
@@ -12,32 +12,32 @@
         }, 
         {
             "location": "/#preface", 
-            "text": "Quelques ressources sur des sujets du monde.", 
+            "text": "Quelques ressources sur divers sujets du monde :-)", 
             "title": "Pr\u00e9face"
         }, 
         {
             "location": "/education/", 
-            "text": "\u00c9ducation\n#\n\n\nFranck Lepage\n\n\n\n\nInculture(s) 1 - La culture\n \n\n\nInculture(s) 2 - L'\u00e9ducation\n\n\nD\u00e9sintoxication de la langue de bois", 
+            "text": "\u00c9ducation\n#\n\n\n\n\n \n  \nFranck Lepage, \"Inculture(s) 1 - La culture\"\n \n\n\n \n  \nFranck Lepage, \"Inculture(s) 2 - L'\u00e9ducation\"\n\n\n \n  \nD\u00e9sintoxication de la langue de bois", 
             "title": "\u00c9ducation"
         }, 
         {
             "location": "/education/#education", 
-            "text": "Franck Lepage   Inculture(s) 1 - La culture    Inculture(s) 2 - L'\u00e9ducation  D\u00e9sintoxication de la langue de bois", 
+            "text": "Franck Lepage, \"Inculture(s) 1 - La culture\"     \n   Franck Lepage, \"Inculture(s) 2 - L'\u00e9ducation\"   \n   D\u00e9sintoxication de la langue de bois", 
             "title": "\u00c9ducation"
         }, 
         {
             "location": "/education/", 
-            "text": "\u00c9ducation\n#\n\n\nFranck Lepage\n\n\n\n\nInculture(s) 1 - La culture\n \n\n\nInculture(s) 2 - L'\u00e9ducation\n\n\nD\u00e9sintoxication de la langue de bois", 
+            "text": "\u00c9ducation\n#\n\n\n\n\n \n  \nFranck Lepage, \"Inculture(s) 1 - La culture\"\n \n\n\n \n  \nFranck Lepage, \"Inculture(s) 2 - L'\u00e9ducation\"\n\n\n \n  \nD\u00e9sintoxication de la langue de bois", 
             "title": "\u00c9conomie"
         }, 
         {
             "location": "/education/#education", 
-            "text": "Franck Lepage   Inculture(s) 1 - La culture    Inculture(s) 2 - L'\u00e9ducation  D\u00e9sintoxication de la langue de bois", 
+            "text": "Franck Lepage, \"Inculture(s) 1 - La culture\"     \n   Franck Lepage, \"Inculture(s) 2 - L'\u00e9ducation\"   \n   D\u00e9sintoxication de la langue de bois", 
             "title": "\u00c9ducation"
         }, 
         {
             "location": "/monnaie/", 
-            "text": "Monnaie\n#\n\n\nDette\n#\n\n\n\n\nD'o\u00f9 vient la dette\n\n\nFoucher, G\u00e9rar, \"Les secrets de la monnaie - la conf\u00e9rence !\"\n\n\nThe Money Fix - A Documentary for Monetary Reform", 
+            "text": "Monnaie\n#\n\n\nDette\n#\n\n\n\n\n \n  \nD'o\u00f9 vient la dette\n\n\n \n  \nFoucher, G\u00e9rar, \"Les secrets de la monnaie - la conf\u00e9rence !\"\n\n\n \n  \nThe Money Fix - A Documentary for Monetary Reform", 
             "title": "Monnaie"
         }, 
         {
@@ -47,12 +47,12 @@
         }, 
         {
             "location": "/monnaie/#dette", 
-            "text": "D'o\u00f9 vient la dette  Foucher, G\u00e9rar, \"Les secrets de la monnaie - la conf\u00e9rence !\"  The Money Fix - A Documentary for Monetary Reform", 
+            "text": "D'o\u00f9 vient la dette   \n   Foucher, G\u00e9rar, \"Les secrets de la monnaie - la conf\u00e9rence !\"   \n   The Money Fix - A Documentary for Monetary Reform", 
             "title": "Dette"
         }, 
         {
             "location": "/politique/", 
-            "text": "Politique\n#\n\n\nConstitution\n#\n\n\n\n\nPlaton, \"La R\u00e9publique\"\n\n\nRousseau, Jean-Jacques, \"Du contrat social\"\n\n\n\n\nD\u00e9mocratie\n#\n\n\n\n\nUQAM / Dupuis-Dery, Francis - D\u00e9mocratie : histoire d'un malentendu\n\n\nChouard, Etienne - La v\u00e9ritable d\u00e9mocratie (le tirage au sort)", 
+            "text": "Politique\n#\n\n\nConstitution\n#\n\n\n\n\n Platon, \"La R\u00e9publique\"\n\n\n Rousseau, Jean-Jacques, \"Du contrat social\"\n\n\n\n\nD\u00e9mocratie\n#\n\n\n\n\n\n  \nUQAM / Dupuis-Dery, Francis - D\u00e9mocratie : histoire d'un malentendu\n\n\n \n  \nChouard, Etienne - La v\u00e9ritable d\u00e9mocratie (le tirage au sort)", 
             "title": "Politique"
         }, 
         {
@@ -62,12 +62,12 @@
         }, 
         {
             "location": "/politique/#constitution", 
-            "text": "Platon, \"La R\u00e9publique\"  Rousseau, Jean-Jacques, \"Du contrat social\"", 
+            "text": "Platon, \"La R\u00e9publique\"   Rousseau, Jean-Jacques, \"Du contrat social\"", 
             "title": "Constitution"
         }, 
         {
             "location": "/politique/#democratie", 
-            "text": "UQAM / Dupuis-Dery, Francis - D\u00e9mocratie : histoire d'un malentendu  Chouard, Etienne - La v\u00e9ritable d\u00e9mocratie (le tirage au sort)", 
+            "text": "UQAM / Dupuis-Dery, Francis - D\u00e9mocratie : histoire d'un malentendu   \n   Chouard, Etienne - La v\u00e9ritable d\u00e9mocratie (le tirage au sort)", 
             "title": "D\u00e9mocratie"
         }
     ]
