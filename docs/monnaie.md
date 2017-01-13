@@ -45,3 +45,7 @@
   ["Theorie Relative de la Monnaie"](https://www.goodreads.com/book/show/33849530-th-orie-relative-de-la-monnaie) - 
   [Lire en ligne](http://trm.creationmonetaire.info/)
 
+- <i class="fa fa-film"></i> 
+  Mylondo, Baptiste - 
+  ["Revenu de base"](https://www.youtube.com/watch?v=DSDMLP8ifS0)
+
