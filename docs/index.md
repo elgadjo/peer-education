@@ -2,7 +2,7 @@
 
 ## Préface 
 
-Quelques ressources sur des sujets du monde.
+Quelques ressources sur divers sujets du monde :-)
 
 <!--
 <span style="color: orange; font-size: 70%;">@)}-,--`,-------</span>
