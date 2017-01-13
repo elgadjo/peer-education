@@ -15,4 +15,5 @@ build:
 	mkdocs build
 
 install:
+	git push
 	mkdocs gh-deploy
