@@ -42,8 +42,8 @@ markdown_extensions:
 
 pages: 
 - 'Accueil': index.md
+- 'Économie': economie.md
 - 'Éducation': education.md
-- 'Économie': education.md
 - 'Monnaie': monnaie.md
 - 'Politique': politique.md
 

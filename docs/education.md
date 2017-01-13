@@ -1,10 +1,13 @@
 
 # Éducation 
 
+
 - <i class="fa fa-film"></i> 
-  [Franck Lepage, "Inculture(s) 1 - La culture"](https://www.youtube.com/watch?v=9MCU7ALAq0Q) 
+  Franck Lepage - 
+  ["Inculture(s) 1 - La culture"](https://www.youtube.com/watch?v=9MCU7ALAq0Q) 
 - <i class="fa fa-film"></i> 
-  [Franck Lepage, "Inculture(s) 2 - L'éducation"](https://www.youtube.com/watch?v=ACxRSSkYR_k)
+  Franck Lepage - 
+  ["Inculture(s) 2 - L'éducation"](https://www.youtube.com/watch?v=ACxRSSkYR_k)
 - <i class="fa fa-film"></i> 
   [Désintoxication de la langue de bois](https://www.youtube.com/watch?v=8oSIq5mxhv8)
 
