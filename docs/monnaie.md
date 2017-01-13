@@ -14,4 +14,6 @@
 - <i class="fa fa-film"></i> 
   [The Money Fix - A Documentary for Monetary Reform](https://www.youtube.com/watch?v=TwmM5Nb6hiE&yt%3Acc=on)
 
+## Revenu de base 
 
+- Stephane Laborde. "Theorie Relative de la Monnaie"
