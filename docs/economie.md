@@ -6,8 +6,28 @@
 - <i class="fa fa-film"></i> 
   Pouliquen, Anthony -
   ["Une autre histoire des classes sociales"](https://www.youtube.com/watch?v=70jLCyiDJdk)
+- <i class="fa fa-film"></i>
+  Mariette, Maxime - 
+  [Transclasse express. Histoire d’un prof de philo qui déraille](https://www.youtube.com/watch?v=KK_4X3O7xA0), 
 
 ## Travail
+
+
+- <i class="fa fa-film"></i> 
+  Lepage, Franck et Tanguy, Gaël - 
+  [Inculture(s) 5 : Le travail](https://www.youtube.com/watch?v=cqIcOaKAX4k), 
+- <i class="fa fa-film"></i> 
+  Annaïg Mesnil et Alexia Morvan - 
+  [Inculture(s) 9 : Le management](https://www.youtube.com/watch?v=F0pTUKs21cA),  
+- <i class="fa fa-film"></i> 
+  Muratet, Pierre - 
+  [Travail d'un auxilière de vie scolaire](https://www.youtube.com/watch?v=RV8DaLupohk)
+- <i class="fa fa-film"></i> 
+  Candebat, François - 
+  [Mission locale impossible](https://www.youtube.com/watch?v=vC04ocLE1Qk)
+- <i class="fa fa-film"></i> 
+  Cournarie, Emmanuelle  - 
+  [Je travaille avec 2L](https://www.youtube.com/watch?v=4WXLZEIJF44)
 
 ## International 
 

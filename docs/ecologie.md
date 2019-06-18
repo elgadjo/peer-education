@@ -1,6 +1,0 @@
-
-# Écologie
-
-## Environnement 
-
-## Permaculture

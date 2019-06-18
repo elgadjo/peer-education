@@ -4,13 +4,26 @@
 ## Culture 
 
 - <i class="fa fa-film"></i> 
-  Franck Lepage - 
+  Lepage, Franck - 
   ["Inculture(s) 1 - La culture"](https://www.youtube.com/watch?v=9MCU7ALAq0Q) 
 - <i class="fa fa-film"></i> 
-  Franck Lepage - 
+  Lepage, Franck - 
   ["Inculture(s) 2 - L'éducation"](https://www.youtube.com/watch?v=ACxRSSkYR_k)
 - <i class="fa fa-film"></i> 
-  ["Désintoxication de la langue de bois"](https://www.youtube.com/watch?v=8oSIq5mxhv8)
+  Lepage, Franck - ["Désintoxication de la langue de bois"](https://www.youtube.com/watch?v=8oSIq5mxhv8)
+- <i class="fa fa-film"></i> 
+  Lepage, Franck - 
+  [Renaissance de l'Education Populaire - Chapitre 1](https://www.youtube.com/watch?v=Y8fZ6oxbJuE)
+- <i class="fa fa-film"></i> 
+  Lepage, Franck - 
+  [Renaissance de l'Education Populaire - Chapitre 2](https://www.youtube.com/watch?v=APHx-Wu5Now)
+- <i class="fa fa-film"></i> 
+  Lepage, Franck - 
+  [Renaissance de l'Education Populaire - Chapitre 3](https://www.youtube.com/watch?v=VdTkNPFUoBE)
+- <i class="fa fa-film"></i>
+  Dalmais, Mathieu - [«Vous êtes l'élite de l'...» Pourquoi je refuse mon diplôme d'Ingénieur](https://www.youtube.com/watch?v=cRdw9Wy2ViE)
+
+## Média
 
 ## Handicap / Différence
 

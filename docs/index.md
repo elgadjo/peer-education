@@ -8,7 +8,8 @@ Quelques ressources sur divers sujets du monde :-)
 
 ## Derniers changements
 
-- __13 janvier__ : création des pages [économie](economie), [éducation](education), [monnaie](monnaie) et [politique](politique). Page _écologie_ en préparation.
+- __18 juin__ : création de la page [environnement](environnement), [identités](identites) et [vrac](en_vrac).
+- __13 janvier__ : création des pages [économie](economie), [éducation](education), [monnaie](monnaie) et [politique](politique).
 
 <br/>
 <br/>

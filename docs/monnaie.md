@@ -8,9 +8,10 @@
   ["Essai sur le don (Forme et raison de l'échange dans les sociétés archaïques)"](
   https://www.goodreads.com/book/show/24225683-essai-sur-le-don)
 - <i class="fa fa-film"></i> 
-  Cause Toujours -
-  ["Une société non marchande"](https://www.youtube.com/watch?v=aeH5YxC5b8Ev)
-  
+  Valentin Radlo (Cause Toujours) - 
+  [Une société non marchande](https://www.youtube.com/watch?v=aeH5YxC5b8E)
+- <i class="fa fa-book"></i> 
+  Rousseau, Jean-Jacques - "Le contrat social"
 - <i class="fa fa-map"></i> 
   (FIXME) Jeu de la monnaie
 
@@ -27,6 +28,8 @@
   Foucher, Gérard - 
   ["Les secrets de la monnaie" (conf du 11 avril 2014)](https://www.youtube.com/watch?v=HraXC6eX-PQ) 
   (et [version du 19 sept. 2013](https://www.youtube.com/watch?v=R-Bg_B9OhPU))
+- <i class="fa fa-film"></i> 
+  Grignon, Paul - [L'argent Dette (2010)](https://www.youtube.com/watch?v=kgA2-bWXSN4)
 - <i class="fa fa-film"></i> 
   [Dette, crise, chômage : qui crée l'argent ?](https://www.youtube.com/watch?v=syAkdb_TDyo)
 - <i class="fa fa-film"></i> 
@@ -61,3 +64,6 @@ Et aussi :
 - <i class="fa fa-film"></i> 
   Mylondo, Baptiste - 
   ["Revenu de base"](https://www.youtube.com/watch?v=DSDMLP8ifS0)
+
+* 🎞 [La monnaie sous toutes ses formes](https://www.youtube.com/watch?v=Hxetm_vtN1w), Kariappa Bheemaiah
+* 🎞 [La monnaie comme lien](https://www.youtube.com/watch?v=7DDGrERfYaE), Etienne Hayem
