@@ -38,6 +38,7 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: '#'
+  - sane_lists
   # - codehilite(css_class=code)
 
 pages: 
