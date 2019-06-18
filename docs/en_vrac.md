@@ -168,48 +168,49 @@
 
 ## D 
 
-  * Damasio, Antonio R., 
-    * _L'erreur de Descartes_, Odile Jacob, 1/2001 (Neurologie, Philo)
+* Damasio, Antonio R., 
+  * _L'erreur de Descartes_, Odile Jacob, 1/2001 (Neurologie, Philo)
 
-  * Debord, Guy
-    * _ Société du Spectacle_
+* Debord, Guy
+  * _ Société du Spectacle_
 
-  * **Deleuze, Gilles** (PHI)
-    * _Capitalisme et schizophrénie_
+* **Deleuze, Gilles** (PHI)
+  * _Capitalisme et schizophrénie_
 
-  * Descartes, René
-    * _Discourse on Method_ (1637)
+* Descartes, René
+  * _Discourse on Method_ (1637)
 
-  * Dixon, Keith
-    * _Les évangélistes du marché_
+* Dixon, Keith
+  * _Les évangélistes du marché_
 
-  * Draughn, Jeff
-    * _Between anarchism and libertarianism: defining a new movement_
+* Draughn, Jeff
+  * _Between anarchism and libertarianism: defining a new movement_
+
 ## E 
 
-  * Ellul, Jacques
-    * _Le Système technicien_.
-    * _Propagandes_.
+* Ellul, Jacques
+  * _Le Système technicien_.
+  * _Propagandes_.
 
-  * Eco, Umberto
-    * _A reculons, comme une écrevisse_
+* Eco, Umberto
+  * _A reculons, comme une écrevisse_
 
-  * Einstein, Albert
-    * _Education pour une pensée plus libre_
+* Einstein, Albert
+  * _Education pour une pensée plus libre_
 
-  * Eliade, Mircea
-    * _Histoire des croyances et des idées religieuses_
+* Eliade, Mircea
+  * _Histoire des croyances et des idées religieuses_
 
-  * Engels, Friedrich
-    * _Introduction à La guerre civile en France_ 1871
-    * _Les journées de juin_ 1848
-    * _L'origine de la famille, de la propriété privée et de l'État_
-    * _Description de colonies communistes surgies ces derniers temps et encore existantes_. 1845 
-    * _Principes du communisme_. 1847
-    * _Manifeste du Parti communiste_ (1848) (& Marx, Karl) 
+* Engels, Friedrich
+  * _Introduction à La guerre civile en France_ 1871
+  * _Les journées de juin_ 1848
+  * _L'origine de la famille, de la propriété privée et de l'État_
+  * _Description de colonies communistes surgies ces derniers temps et encore existantes_. 1845 
+  * _Principes du communisme_. 1847
+  * _Manifeste du Parti communiste_ (1848) (& Marx, Karl) 
 
-  * Escarpit, Robert
-    * _Théorie de l'information et pratique politique_ (via Gilles Châtelet)
+* Escarpit, Robert
+  * _Théorie de l'information et pratique politique_ (via Gilles Châtelet)
 
 ## F 
 
@@ -466,7 +467,7 @@ cohérence entre ces deux ordres de systèmes est dificile à établir 3. »//
     * La République
 
   * **Proudhon, Pierre-Joseph**
-    * _Propriété// [[http:_www.jutier.net/contenu/pjpp.htm|Lire en ligne]]
+    * _Propriété_ [[http://www.jutier.net/contenu/pjpp.htm|Lire en ligne]]
     * Système des contradictions économiques ou Philosophie de la misère. (1846) [[http://www.jutier.net/contenu/pjpm0.htm|Lire en ligne]]
     * Théorie de la propriété (1862) [[http://www.jutier.net/contenu/pjpp2.htm|Lire en ligne]]
 

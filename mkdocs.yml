@@ -1,6 +1,5 @@
 site_name: Education populaire
 
-theme: 'material'
 # theme_dir: 'themes/mkdocs-material/material'
 # theme_dir: 'themes/mkdocs-material'
 
@@ -11,9 +10,10 @@ site_url: 'http://elgadjo.github.io/peer-education'
 
 repo_name: 'GitHub'
 repo_url: 'https://github.com/elgadjo/peer-education'
-site_favicon: favicon.ico
+site_favicon: 'favicon.ico'
 
-extra:
+theme:
+  name: 'material'
   palette:
     primary: 'deep purple'
     accent: 'orange'
@@ -35,16 +35,19 @@ extra_javascript:
 # Extensions
 markdown_extensions:
   - footnotes
-  - codehilite(css_class=code)
   - admonition
   - toc:
       permalink: '#'
+  # - codehilite(css_class=code)
 
 pages: 
 - 'Accueil': index.md
 - 'Économie': economie.md
 - 'Éducation': education.md
+- 'Environnement': environnement.md
+- 'Identités': identites.md
 - 'Monnaie': monnaie.md
 - 'Politique': politique.md
+- 'Vrac': en_vrac.md
 
 #- 'Écologie': ecologie.md
