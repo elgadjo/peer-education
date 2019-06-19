@@ -1,6 +1,5 @@
 # Politique, Droit, Sociologie & Philo
 
-- http://www.wired.com/wiredscience/2013/11/vaclav-smil-wired/
 
 
 - Francis Dupuis-Déri
@@ -8,52 +7,69 @@
 
 ## Multi-auteurs
 
-- Joule et Beauvois,
-    * _La soumission librement consentie_, Presses Universitaires de France, 1998
+* Joule et Beauvois,
+    - <i class="fa fa-book"></i> 
+      _La soumission librement consentie_, Presses Universitaires de France, 1998
 
 ## A 
 
 - Accardo, Alain - SOCIO, POLITIQUE
-    * _Le petit-bourgeois gentilhomme_, 
-    * _De notre servitude involontaire_
-    * _Introduction à une sociologie critique_.
+    * <i class="fa fa-book"></i> 
+      _Le petit-bourgeois gentilhomme_, 
+    * <i class="fa fa-book"></i> 
+      _De notre servitude involontaire_
+    * <i class="fa fa-book"></i> 
+      _Introduction à une sociologie critique_.
 
 - Ackelsberg, Martha a. 
-    * _Free women of spain_
+    * <i class="fa fa-book"></i> 
+      _Free women of spain_
 
 - Aigrain, Philippe
-    * _Cause Commune_
+    * <i class="fa fa-book"></i> 
+      _Cause Commune_
 
 - Alain
-    * _Propos sur le pouvoir_
+    * <i class="fa fa-book"></i> 
+      _Propos sur le pouvoir_
 
 - Alinsky, Saul
-    * _Manuel de l'animateur social_ -- ([Lire en ligne](http://www.naje.asso.fr/article.php3?id_article=333))
+    * <i class="fa fa-book"></i> 
+      _Manuel de l'animateur social_ -- ([Lire en ligne](http://www.naje.asso.fr/article.php3?id_article=333))
 
 - Althusser, Louis
 
 - Antelme, Robert
-    * _L'espèce humaine_  (Gallimard) 
+    * <i class="fa fa-book"></i> 
+      _L'espèce humaine_  (Gallimard) 
 
 - Archinov, 
-    * _La Makhnovchtchina_. Ed. Spartacus.
+    * <i class="fa fa-book"></i> 
+      _La Makhnovchtchina_. Ed. Spartacus.
 
 - Arendt, Hannah 
-    * _Qu'est-ce que la politique ?_
-    * _Le système totalitaire_ (1951)
+    * <i class="fa fa-book"></i> 
+      _Qu'est-ce que la politique ?_
+    * <i class="fa fa-book"></i> 
+      _Le système totalitaire_ (1951)
 
 - Ariès, Paul
-    * _Les manipulations mentales au sein de la mondialisation_, conférence à DiverCité, Lyon, 10-12-02.
+    * <i class="fa fa-book"></i> 
+      _Les manipulations mentales au sein de la mondialisation_, conférence à DiverCité, Lyon, 10-12-02.
 
 - Aristote
-    * _Ethique à Nicomaque_ [ethique, morale, loi, justice]
+    * <i class="fa fa-book"></i> 
+      _Ethique à Nicomaque_ [ethique, morale, loi, justice]
 
 - Arnsperger Christian
-    * _Critique de l'existence capitaliste. Pour une éthique existentielle de l'économie_
+    * <i class="fa fa-book"></i> 
+      _Critique de l'existence capitaliste. Pour une éthique existentielle de l'économie_
 
 - Attali, Jacques
-    * _Une brève histoire de l'avenir_
-    * _Demain, qui gouvernera le monde?_ (2011)
+    * <i class="fa fa-book"></i> 
+      _Une brève histoire de l'avenir_
+    * <i class="fa fa-book"></i> 
+      _Demain, qui gouvernera le monde?_ (2011)
 
 - Axelos, Kostas [PHI]
 
@@ -257,7 +273,7 @@
 - Gorz, André
     * _L'immatériel, connaissance, valeur et capital_
 
-- Gibran, Khalil*
+- Gibran, Khalil
     * _Le prophète_
     * _A Tear and A Smile_
 
@@ -536,6 +552,28 @@
 
 - Servet, Jean Michel
     * _Une économie sans argent_
+
+- Smil, Vaclav ([Info](http://www.wired.com/wiredscience/2013/11/vaclav-smil-wired/)) <!-- via-gates-bill -->
+    - <i class="fa fa-book"></i> 
+      "Energy and Civilization: A History" (2017)
+    - <i class="fa fa-book"></i> 
+      "Should We Eat Meat?: Evolution and Consequences of Modern Carnivory" (2013)
+    - <i class="fa fa-book"></i> 
+      "Making the Modern World: Materials and Dematerialization" (2013)
+    - <i class="fa fa-book"></i> 
+      "Harvesting the Biosphere: What We Have Taken from Nature" (2012)
+    - <i class="fa fa-book"></i> 
+      "Energy Myths and Realities: Bringing Science to the Energy Policy Debate" (2010)
+    - <i class="fa fa-book"></i> 
+      "Global Catastrophes and Trends: The Next 50 Years" (2008)
+    - <i class="fa fa-book"></i> 
+      "Energy at the Crossroads: Global Perspectives and Uncertainties" (2003)
+    - <i class="fa fa-book"></i> 
+      "Enriching the Earth"
+    - <i class="fa fa-book"></i> 
+       "Creating the 20th century"
+    - <i class="fa fa-book"></i> 
+      "Cycles of Life: Civilization and the Biosphere"
 
 - Smith, Adam
     * _Richesse des nations_
