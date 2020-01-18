@@ -1,5 +1,4 @@
-
-# Monnaie 
+# Monnaie
 
 ## Échanges non-monétaires
 
@@ -48,13 +47,13 @@ Et aussi :
 - <i class="fa fa-film"></i> 
   Alévêque, Christophe  - 
   [On n'est pas couché 16 mai 2015 #ONPC](https://www.youtube.com/watch?v=cJizpVzpOPQ) 
-    - <i class="fa fa-film"></i> 
-      (suite) Foucher, Gérard - 
-      [Christophe Alévêque, c'est à toi que je parle !](https://www.youtube.com/watch?v=S7woYW1ETVU)
+   - <i class="fa fa-film"></i> 
+     (suite) Foucher, Gérard - 
+     [Christophe Alévêque, c'est à toi que je parle !](https://www.youtube.com/watch?v=S7woYW1ETVU)
 - <i class="fa fa-film"></i> 
   Foucher, Gérard - [À nos amis banquiers](https://www.youtube.com/watch?v=XD6ysTuT7gc)
 
-## Revenu de base 
+## Revenu de base
 
 - <i class="fa fa-book"></i> 
   Laborde, Stéphane - 
@@ -64,6 +63,12 @@ Et aussi :
 - <i class="fa fa-film"></i> 
   Mylondo, Baptiste - 
   ["Revenu de base"](https://www.youtube.com/watch?v=DSDMLP8ifS0)
+* <i class="fa fa-film"></i> 
+  
+  [La monnaie sous toutes ses formes](https://www.youtube.com/watch?v=Hxetm_vtN1w), Kariappa Bheemaiah
 
-* 🎞 [La monnaie sous toutes ses formes](https://www.youtube.com/watch?v=Hxetm_vtN1w), Kariappa Bheemaiah
-* 🎞 [La monnaie comme lien](https://www.youtube.com/watch?v=7DDGrERfYaE), Etienne Hayem
+* <i class="fa fa-film"></i>
+  
+   [La monnaie comme lien](https://www.youtube.com/watch?v=7DDGrERfYaE), Etienne Hayem
+
+
