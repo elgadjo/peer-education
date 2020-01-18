@@ -36,10 +36,16 @@ extra_javascript:
 markdown_extensions:
   - footnotes
   - admonition
+  - sane_lists
   - toc:
       permalink: '#'
-  - sane_lists
-  # - codehilite(css_class=code)
+  - codehilite:
+      guess_lang: false
+  - mdx_truly_sane_lists  # pip install mdx_truly_sane_lists
+  - pymdownx.emoji: # pip install pymdown-extensions
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.superfences: # pip install pymdown-extensions
+
 
 pages: 
 - 'Accueil': index.md
