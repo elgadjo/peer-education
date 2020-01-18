@@ -1,7 +1,6 @@
+# Éducation
 
-# Éducation 
-
-## Culture 
+## Culture
 
 - <i class="fa fa-film"></i> 
   Lepage, Franck - 
@@ -31,7 +30,6 @@
   Muratet, Pierre -
   ["Assistant de vie scolaire (AVS)"](https://www.youtube.com/watch?v=RV8DaLupohk)
 
-
 ## Art
 
 - <i class="fa fa-film"></i>
@@ -47,11 +45,12 @@ Inculture(s) 5 : Le travail - http://www.youtube.com/watch?v=cqIcOa...
 Inculture(s) 8 : L'eau, ça chie - http://www.youtube.com/watch?v=hijW2y...
 Inculture(s) 9 : Le Management - http://www.youtube.com/watch?v=F0pTUK... -
 
-
 - <i class="fa fa-film"></i> 
   Arrêt sur Image - 
   ["La démocratie, c'est chiant. C'est le fascisme qui est naturel"](http://www.arretsurimages.net/emissions/2012-08-24/La-democratie-c-est-chiant-C-est-le-fascisme-qui-est-naturel-id5110)
-    - <i class="fa fa-film"></i> 
-       Et vidéo de 
-      ["L'entretien avec Franck Lepage"](https://www.youtube.com/watch?v=zVhdg3kXBCo)
-->
+   - <i class="fa fa-film"></i> 
+      Et vidéo de 
+     ["L'entretien avec Franck Lepage"](https://www.youtube.com/watch?v=zVhdg3kXBCo)
+     ->
+
+

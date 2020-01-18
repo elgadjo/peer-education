@@ -1,5 +1,4 @@
-
-# Politique 
+# Politique
 
 ## Constitution
 
@@ -13,8 +12,7 @@
   Rousseau, Jean-Jacques -
   ["Du contrat social"](https://www.goodreads.com/book/show/2911640-du-contrat-social)
 
-
-## Démocratie 
+## Démocratie
 
 - <i class="fa fa-film"></i>
   Dupuis-Dery, Francis @ UQAM - 
@@ -23,10 +21,10 @@
 - <i class="fa fa-film"></i>
   Rochex, Sylvain et Volat, Gérard -
   ["Sommes-nous en démocratie"](https://www.youtube.com/watch?v=dcmkAG3fESE)
+
 - <i class="fa fa-film"></i>
   Luc Carton @ Colloque sur les droits culturels à Université Montaigne (Bordeau 3) - 
   ["Nous ne sommes pas en démocratie"](https://www.youtube.com/watch?v=XZdwxmKPMk8)
-  
 
 ## Autonomie
 

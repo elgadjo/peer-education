@@ -1,6 +1,6 @@
 # Éducation Populaire
 
-## Préface 
+## Préface
 
 Quelques ressources sur divers sujets du monde :-)
 
