@@ -19,6 +19,8 @@
   Candebat, François - [Mission locale impossible](https://www.youtube.com/watch?v=vC04ocLE1Qk)
 - <i class="fa fa-film"></i> 
   Cournarie, Emmanuelle  - [Je travaille avec 2L](https://www.youtube.com/watch?v=4WXLZEIJF44)
+- <i class="fa fa-book"></i>
+  Dujarier, Marie-Anne - [Publications récentes](http://lise-cnrs.cnam.fr/le-laboratoire/les-membres-du-lise/marie-anne-dujarier-626939.kjsp)
 
 ## International
 
