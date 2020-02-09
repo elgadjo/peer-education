@@ -118,6 +118,7 @@
 * Barrico, Alessandro
   
    * _Les barbares : essai sur la mutation_
+
 - Becker, Howard 
   
    * _Outsiders: Studies in the Sociology of Deviance._
@@ -125,6 +126,10 @@
 - Becker, Gary
   
    * _Human Capital, A Theoretical and Empirical Analysis_ 
+
+- Bégaudeau François 
+
+   * _Histoire de la Bêtise_
 
 - Begout, Bruce
   
@@ -248,6 +253,7 @@
 - Debord, Guy
   
    * _Société du Spectacle_
+
 * Delannoy, Isabelle 
   
    * _L'économie symbiotique_
@@ -431,6 +437,10 @@
 * Hess, Charlotte + Ostrom, Elinor 
   
    * nouveaux communs d ela connaissance 2007
+
+* Hirtt, Nico #education #travail
+
+  * _L'école de l'inégalité_
 
 * Hobbes, Thomas
   
@@ -843,6 +853,7 @@
 - Trotsky, Léon
   
    * _La révolution permanente_, (1928-1931) ([Lire en ligne](http://www.jutier.net/contenu/trot0.htm))
+   * _Marx_ (1939)
 
 - [Tucker, Benjamin](http://en.wikipedia.org/wiki/Benjamin_Tucker)
   
@@ -867,6 +878,10 @@
   
    * _Le futurisme de l'instant_
    * _Cybermonde, la politique du pire_
+
+* Voline
+
+   * _La révolution inconnue_, 1917-2021 (Lire en ligne: [Tome 1](https://cras31.info/IMG/pdf/voline_tome_1_la_revolution_inconnue.pdf), [Tome 2](https://cras31.info/IMG/pdf/voline_la_revolution_inconnue_tome_2.pdf), [Tome 3](https://cras31.info/IMG/pdf/voline-tome_3_la_revolution_inconnue.pdf))
 
 ## W
 
@@ -948,4 +963,50 @@ http://www.apophtegme.com/
 Raisons d'Agir ?
 
 http://www.editionslesliensquiliberent.fr/f/index.php?sp=coll&collection_id=1
+-->
+
+<!--
+
+#langage #novlangue
+
+Lénine, « cahiers philosophiques » :
+
+«  les domaines du savoir dont doit être composée la théorie de la connaissance et la dialectique :
+*  Histoire de la philosophie
+*  Histoire des sciences régulières
+*  Histoire du développement intellectuel de l'enfant, des animaux
+* Histoire du langage »
+
+Je me suis aperçu a posteriori que mes petits et mal foutus articles sur wikirouge - que je bombarde de plus en plus de citations - s'attaquent involontairement au langage bourgeois et à sa novlangue :
+
+* bibliographie sur le matérialisme dialectique
+* citations sur le matérialisme dialectique
+* les philosophes matérialistes
+* matérialisme dialectique (à 90% d'apport)
+* Intelligence
+* devenir
+* théorie et faits
+* amour et sexualité
+* consilience
+* abstraction
+* contradiction
+* origine et commencement
+* méthode globale
+* Henri Wallon, Stephen Jay Gould, Ovide Decroly, Lev Vygotski, Amélie Hamaïde, Émile Jalley, Lissagaray, Alexandre Zinoviev ...
+* et quelques autres
+
+Le langage et la pensée (Lev Vygotski) ainsi que l'acte et la pensée (Henri Wallon) sont en relation dialectique.
+La langue fait aussi la société et son devenir et pas seulement l'économie.
+
+«  la production et la reproduction de la vie réelle » (Engels, Marx) passe aussi par le langage entre autres.
+
+Par ailleurs, Alexandre Zinoviev montre l'aspect déterminant de l'idéologie dans le développement des sociétés.
+
+Pour faire un lien avec la théorie de Gilbert Simondon sur l'individuation que je viens de découvrir par Pascal Chabot, l'idéologie semble être selon moi une « force » entre la « forme » de la société et sa « matière ».
+
+-->
+<!-- 
+
+https://cras31.info/IMG/pdf/
+
 -->
