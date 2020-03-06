@@ -438,6 +438,10 @@
   
    * nouveaux communs d ela connaissance 2007
 
+* Himanen, Pekka
+
+  * _L'éthique Hacker et l'ère de l'information_, Exils, 2001
+
 * Hirtt, Nico #education #travail
 
   * _L'école de l'inégalité_
@@ -454,23 +458,27 @@
 
 ## I
 
-- Illich, Ivan
-   * _La Convivialité_, 
-   * _Descolariser la société_
-   * _Némésis médicale_.
+* Illich, Ivan
+  * _La Convivialité_, 
+  * _Descolariser la société_
+  * _Némésis médicale_.
+
+* Isabel, Thibault
+  * _Pierre-Joseph Proudhon : L'anarchie sans le désordre_, Autrement, 2017
 
 ## J
 
 * Jeambar, Denis et Roucaute, Yves 
   
-   * _Éloge de la trahison, de l'art de gouverner par le reniement_
-- Jorion, Paul
+  * _Éloge de la trahison, de l'art de gouverner par le reniement_
+
+* Jorion, Paul
   
-   * _L'argent, mode d'emploi_
+  * _L'argent, mode d'emploi_
 
 - Johnston, Diana
   
-   * _Yougoslavie : Première guerre de la mondialisation_.
+  * _Yougoslavie : Première guerre de la mondialisation_.
 
 - Jouffroy Alain
   
@@ -587,7 +595,7 @@
 
 * Manin, Bernard
   
-   * _Principes du gouvernement representatif_
+   * _Principes du gouvernement representatif_, Flamarion
 
 * Marcuse, Herbert 
 
@@ -700,7 +708,6 @@
 
 ## R
 
-- [Ricoeur, Paul](http://fr.wikipedia.org/wiki/Paul_Ric%C5%93ur) (PHI)
 
 - Ranciere, Jacques (PHI)
   
@@ -718,6 +725,11 @@
 - Ramonet, Ignacio 
   
    * _Propagandes silencieuses_ [ideologie politique, media]
+
+* Rediker, Marcus
+  * _Les hors la loi de l'Atlantique_, Seuil, 2017
+
+- [Ricoeur, Paul](http://fr.wikipedia.org/wiki/Paul_Ric%C5%93ur) (PHI)
 
 - Rawls, John
   
