@@ -202,7 +202,7 @@
 
 ## C
 
-* [Conche, Marcel](http://fr.wikipedia.org/wiki/Marcel_Conche) )
+* [Conche, Marcel](http://fr.wikipedia.org/wiki/Marcel_Conche)
 
 * Caraco, Albert
   
