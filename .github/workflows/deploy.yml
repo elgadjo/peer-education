@@ -36,5 +36,5 @@ jobs:
           make build
       - name: Commit an dpush online
         run: |
-          make deploy
+          make install
 
