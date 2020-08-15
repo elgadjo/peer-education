@@ -9,8 +9,9 @@ Quelques ressources sur divers sujets pour mieux comprendre le monde :wink:
 ## Pour contribuer 
 
 Envoyez à [elgadjo@protonmail.ch](mailto:elgadjo@protonmail.ch) un email avec
-les références (livres, podcast, etc.) que vous souhaitez voir ajoutées ainsi
-que les thématiques concernées.
+les oeuvres (livres, conférence, documentaire, podcast, etc.) que vous
+souhaitez voir ajoutées à ce site, en précisant la ou les thématiques
+concernées.
 
 ## Derniers changements
 
