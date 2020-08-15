@@ -1,4 +1,6 @@
 
+all: help
+
 help:
 	@echo "This project accepts the following targets:"
 	@echo ""
@@ -8,12 +10,15 @@ help:
 	@echo ""
 
 
+prepare:
+	pipenv install
+
 test:
-	mkdocs serve 
+	pipenv run mkdocs serve 
 
 build:
-	mkdocs build
+	pipenv run mkdocs build
 
 install:
 	git push
-	mkdocs gh-deploy
+	pipenv run mkdocs gh-deploy
