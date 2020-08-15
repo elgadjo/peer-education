@@ -22,8 +22,8 @@
 
 ## A
 
-* Accardo, Alain - [#sociology](), POLITIQUE
-  
+* Accardo, Alain - [#sociology](#sociology) [#politics](#politics)
+
    * <i class="fa fa-book"></i> 
      _Le petit-bourgeois gentilhomme_, 
    * <i class="fa fa-book"></i> 
@@ -92,11 +92,11 @@
    * <i class="fa fa-book"></i> 
      _Demain, qui gouvernera le monde?_ (2011)
 
-- Axelos, Kostas [PHI]
+- Axelos, Kostas - [#philosophy](#philosophy)
 
 ## B
 
-- Balibar, Etienne (PHI)
+- Balibar, Etienne - [#philosophy](#philosophy)
   
    * _Identité et différence. L’invention de la conscience._
 
@@ -189,7 +189,7 @@
   
    * _Le bonheur conforme_ [discours publicitaire, effets sociaux et politiques]
 
-- Buridean, Jean [PHILO]
+- Buridean, Jean - [#philosophy](#philosophy)
 
 - Buchanan, James M.
   
@@ -197,7 +197,7 @@
 
 ## C
 
-- [Conche, Marcel](http://fr.wikipedia.org/wiki/Marcel_Conche) (PHI)
+- [Conche, Marcel](http://fr.wikipedia.org/wiki/Marcel_Conche) )
 
 - Caraco, Albert
   
@@ -205,8 +205,8 @@
 
 - Carles, Pierre
   
-   * _Enfin pris_ [#sociology]()
-   * _La sociologie est un sport de combat_ [#sociology]()
+   * _Enfin pris_ [#sociology](#sociology)
+   * _La sociologie est un sport de combat_ [#sociology](#sociology)
 
 - Castoriadis Cornélius
   
@@ -259,7 +259,7 @@
 * Delannoy, Isabelle 
   
    * _L'économie symbiotique_
-- Deleuze, Gilles (PHI)
+- Deleuze, Gilles - [#philosophy](#philosophy)
   
    * _Capitalisme et schizophrénie_
 * Delphy, C
@@ -647,7 +647,7 @@
   
    * _L'utopie ou Le Traité de la meilleure forme de gouvernement_ (1516) ([Lire en ligne](http://www.jutier.net/contenu/utopietm.htm))
 
-* Morin, Edgar (PHI)
+* Morin, Edgar - [#philosophy](#philosophy)
   
    * _Introduction à la pensée complexe_
 
@@ -711,7 +711,7 @@
 ## R
 
 
-- Ranciere, Jacques (PHI)
+- Ranciere, Jacques - [#philosophy](#philosophy)
   
    * _Le maitre igrorant_
    * _La haine de la démocratie_
@@ -731,7 +731,7 @@
 * Rediker, Marcus
   * _Les hors la loi de l'Atlantique_, Seuil, 2017
 
-- [Ricoeur, Paul](http://fr.wikipedia.org/wiki/Paul_Ric%C5%93ur) (PHI)
+- [Ricoeur, Paul](http://fr.wikipedia.org/wiki/Paul_Ric%C5%93ur) - [#philosophy](#philosophy)
 
 - Rawls, John
   
@@ -827,7 +827,8 @@
 * Steiner, Anne
   
    * _RAF : guérilla urbaine en Europe occidentale_ (& Loïc Debray)
-- Stiegler (PHI) (culture libre, etc)
+
+- Stiegler - [#philosophy](#philosophy) [#techonology](#technology) [#opensource](#opensource) [#culture](#culture)
 
 - Stiglitz, Joseph E.
   
@@ -914,7 +915,7 @@
 
 ## Z
 
-- [Zizek, Slavoj](https://fr.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) [#philosophy]() [#marxism]()
+- [Zizek, Slavoj](https://fr.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) [#philosophy](#philosophy) [#marxism](#marxism)
    * _[The Sublime Object of Ideology](https://en.wikipedia.org/wiki/The_Sublime_Object_of_Ideology)_
 
 <!-- 
