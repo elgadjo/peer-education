@@ -22,7 +22,7 @@
 
 ## A
 
-* Accardo, Alain - SOCIO, POLITIQUE
+* Accardo, Alain - [#sociology](), POLITIQUE
   
    * <i class="fa fa-book"></i> 
      _Le petit-bourgeois gentilhomme_, 
@@ -205,8 +205,8 @@
 
 - Carles, Pierre
   
-   * _Enfin pris_ (SOC)
-   * _La sociologie est un sport de combat_ (SOC)
+   * _Enfin pris_ [#sociology]()
+   * _La sociologie est un sport de combat_ [#sociology]()
 
 - Castoriadis Cornélius
   
@@ -914,7 +914,7 @@
 
 ## Z
 
-- [Zizek, Slavoj](https://fr.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) [#philosophy] [#marxism]
+- [Zizek, Slavoj](https://fr.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) [#philosophy]() [#marxism]()
    * _[The Sublime Object of Ideology](https://en.wikipedia.org/wiki/The_Sublime_Object_of_Ideology)_
 
 <!-- 
