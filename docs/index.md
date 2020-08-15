@@ -2,15 +2,15 @@
 
 ## Préface
 
-Quelques ressources sur divers sujets du monde :-)
+Quelques ressources sur divers sujets pour mieux comprendre le monde :wink:
 
 <span style="color: transparent; font-size: 70%;">@)}-,--`,-------</span>
 
 ## Pour contribuer 
 
 Envoyez à [elgadjo@protonmail.ch](mailto:elgadjo@protonmail.ch) un email avec
-les références (livres, podcast, etc.) que vous souhaitez voir ajoutées et les
-thématiques concernes.
+les références (livres, podcast, etc.) que vous souhaitez voir ajoutées ainsi
+que les thématiques concernées.
 
 ## Derniers changements
 
