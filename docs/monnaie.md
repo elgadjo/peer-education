@@ -59,16 +59,12 @@ Et aussi :
   Laborde, Stéphane - 
   ["Theorie Relative de la Monnaie"](https://www.goodreads.com/book/show/33849530-th-orie-relative-de-la-monnaie) - 
   [Lire en ligne](http://trm.creationmonetaire.info/)
-
 - <i class="fa fa-film"></i> 
   Mylondo, Baptiste - 
   ["Revenu de base"](https://www.youtube.com/watch?v=DSDMLP8ifS0)
 * <i class="fa fa-film"></i> 
-  
   [La monnaie sous toutes ses formes](https://www.youtube.com/watch?v=Hxetm_vtN1w), Kariappa Bheemaiah
-
 * <i class="fa fa-film"></i>
-  
-   [La monnaie comme lien](https://www.youtube.com/watch?v=7DDGrERfYaE), Etienne Hayem
+  [La monnaie comme lien](https://www.youtube.com/watch?v=7DDGrERfYaE), Etienne Hayem
 
 
