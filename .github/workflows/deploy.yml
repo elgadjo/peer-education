@@ -26,6 +26,7 @@ jobs:
         run: |
           pip install pipenv
           pipenv --python 3.7.5
+          make prepare
       - name: Setup git config
         run: |
           git config --global user.email "github@example.com"
