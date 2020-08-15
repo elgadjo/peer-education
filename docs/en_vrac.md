@@ -228,7 +228,8 @@
 * Cervetto, Arrigo
   
    * _Méthode et parti-science_
-   * _Le monde multipolaire _
+   * _Le monde multipolaire_
+
 * Chamayou, Grégoire
   
    * _La société ingouvernable: une généalogie du liberalisme autoritaire_
