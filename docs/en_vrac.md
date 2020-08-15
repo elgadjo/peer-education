@@ -280,19 +280,19 @@
    * _Société du Spectacle_
 
 * Delannoy, Isabelle 
-  
+
    * _L'économie symbiotique_
 
 * Deleuze, Gilles - [#philosophy](#philosophy)
-  
+
    * _Capitalisme et schizophrénie_
 
 * Delphy, C
-  
-   * "Classés, dominés, qui sont les autres ?"
+
+   * _Classés, dominés, qui sont les autres ?_
 
 * Descartes, René
-  
+
    * _Discourse on Method_ (1637)
 
 * Donzelot, Jacques (sociologue)
@@ -302,6 +302,7 @@
 * Dixon, Keith
   
    * _Les évangélistes du marché_
+
 * Draughn, Jeff
   
    * _Between anarchism and libertarianism: defining a new movement_
@@ -422,6 +423,7 @@
   
    * _Ni dieu ni maitre: Anthologie de l'anarchisme_
    * histoire de l'anarchisme, communisme libertaire, etc.
+
 * Gulderlus, Peter
   
    * Comment la non-violence protege l'état
@@ -457,6 +459,7 @@
 * Halimi, Serge
   
    * _Les nouveaux chiens de garde_ [media, information, journalistes]
+
 * Halevi, Judah
   
    * _Kuzari_ (1140)
@@ -490,11 +493,13 @@
 ## I
 
 * Illich, Ivan
+
   * _La Convivialité_, 
   * _Descolariser la société_
   * _Némésis médicale_.
 
 * Isabel, Thibault
+
   * _Pierre-Joseph Proudhon : L'anarchie sans le désordre_, Autrement, 2017
 
 ## J
@@ -542,6 +547,7 @@
 * Keynes, John Maynard
   
    * Théorie générale de l'emploi, de l'intérêt et de la monnaie. (1936) ([Lire en ligne](http://www.jutier.net/contenu/jmkey1.htm))
+
 * Kropotkine, Pierre
   
    * _La Commune (suivie de la Commune de Paris)_
@@ -819,7 +825,8 @@
 
 * Roudaut, Yannick
   
-   * Zéro pollution de 
+   * _Zéro pollution_
+
 * Rousseau, Jean-Jacques
   
    * _Le contrat social_
@@ -861,32 +868,35 @@
 * [Smil, Vaclav](https://fr.wikipedia.org/wiki/Vaclav_Smil) ([Info](http://www.wired.com/wiredscience/2013/11/vaclav-smil-wired/)) <!-- via-gates-bill -->
   
    - <i class="fa fa-book"></i> 
-     "Energy and Civilization: A History" (2017)
+     _Energy and Civilization: A History_, (2017)
    - <i class="fa fa-book"></i> 
-     "Should We Eat Meat?: Evolution and Consequences of Modern Carnivory" (2013)
+     _Should We Eat Meat?: Evolution and Consequences of Modern Carnivory_, (2013)
    - <i class="fa fa-book"></i> 
-     "Making the Modern World: Materials and Dematerialization" (2013)
+     _Making the Modern World: Materials and Dematerialization_, (2013)
    - <i class="fa fa-book"></i> 
-     "Harvesting the Biosphere: What We Have Taken from Nature" (2012)
+     _Harvesting the Biosphere: What We Have Taken from Nature_, (2012)
    - <i class="fa fa-book"></i> 
-     "Energy Myths and Realities: Bringing Science to the Energy Policy Debate" (2010)
+     _Energy Myths and Realities: Bringing Science to the Energy Policy Debate_, (2010)
    - <i class="fa fa-book"></i> 
-     "Global Catastrophes and Trends: The Next 50 Years" (2008)
+     _Global Catastrophes and Trends: The Next 50 Years_, (2008)
    - <i class="fa fa-book"></i> 
-     "Energy at the Crossroads: Global Perspectives and Uncertainties" (2003)
+     _Energy at the Crossroads: Global Perspectives and Uncertainties_, (2003)
    - <i class="fa fa-book"></i> 
-     "Enriching the Earth"
+     _Enriching the Earth_
    - <i class="fa fa-book"></i> 
-      "Creating the 20th century"
+     _Creating the 20th century_
    - <i class="fa fa-book"></i> 
-     "Cycles of Life: Civilization and the Biosphere"
+     _Cycles of Life: Civilization and the Biosphere_
 
 * Smith, Adam
   
-   * _Richesse des nations_
+   - <i class="fa fa-book"></i> 
+     _Richesse des nations_
+
 * Soupiot, Alain
   
-   * La gouvernance par les nombres
+   - <i class="fa fa-book"></i> 
+     _La gouvernance par les nombres_
 
 * Spearbeare, Dan
   
@@ -894,30 +904,39 @@
 
 * Spencer, Herbert
   
-   * _Le droit d'ignorer l'état_
+   - <i class="fa fa-book"></i>
+     _Le droit d'ignorer l'état_
 
 * Steiner, Anne
   
-   * _RAF : guérilla urbaine en Europe occidentale_ (& Loïc Debray)
+   - <i class="fa fa-book"></i>
+     _RAF : guérilla urbaine en Europe occidentale_ (& Loïc Debray)
 
 * Stiegler, Bernard - [#philosophy](#philosophy) [#techonology](#technology) [#opensource](#opensource) [#culture](#culture)
 
-   * _Qu'appelle-t-on Panser ?_
+   - <i class="fa fa-book"></i>
+     _Qu'appelle-t-on Panser ?_
 
 * Stiglitz, Joseph E.
   
-   * _Le rapport Stiglitz_ (2009)
-   * _Un autre monde, contre le fanatisme du marché_ (2006)
-   * _Le triomphe de la cupidité (2010)_
-   * _People, Power, and Profits: Progressive Capitalism for an Age of Discontent_
+   - <i class="fa fa-book"></i>
+     _Le rapport Stiglitz_ (2009)
+   - <i class="fa fa-book"></i>
+     _Un autre monde, contre le fanatisme du marché_ (2006)
+   - <i class="fa fa-book"></i>
+     _Le triomphe de la cupidité (2010)_
+   - <i class="fa fa-book"></i>
+     _People, Power, and Profits: Progressive Capitalism for an Age of Discontent_
 
 * Strauss, Léo
   
-   * _La philosophie politique de Hobbes_ (1991)
+   - <i class="fa fa-book"></i>
+     _La philosophie politique de Hobbes_ (1991)
 
 * Sussan, Rémi
   
-   * _Les utopies posthumaines// - http://www.omniscience.fr/collections/Collection-Essais-2/Les-utopies-posthumaines-1.html
+   - <i class="fa fa-book"></i>
+     _Les utopies posthumaines_ ([Lire en ligne](http://www.omniscience.fr/collections/Collection-Essais-2/Les-utopies-posthumaines-1.html))
 
 ## T
 
