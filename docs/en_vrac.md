@@ -788,7 +788,7 @@
   
    * _Une économie sans argent_
 
-- Smil, Vaclav ([Info](http://www.wired.com/wiredscience/2013/11/vaclav-smil-wired/)) <!-- via-gates-bill -->
+- [Smil, Vaclav](https://fr.wikipedia.org/wiki/Vaclav_Smil) ([Info](http://www.wired.com/wiredscience/2013/11/vaclav-smil-wired/)) <!-- via-gates-bill -->
   
    - <i class="fa fa-book"></i> 
      "Energy and Civilization: A History" (2017)
