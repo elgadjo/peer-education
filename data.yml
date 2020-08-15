@@ -1,0 +1,21 @@
+---
+# - name:
+#   works:
+#     - title:
+#       year:
+#       type: book
+#       tags: []
+#     - title:
+#       year:
+#       type: book
+#       tags: []
+
+- authors: ['Roddier, François']
+  works:
+    - title: "Thermodynamique de l’évolution: un essai de thermo-bio-sociologie"
+      tags: ['climate', 'sociology', 'physics', 'science', 'thermodynamics']
+      type: book
+
+- authors: ['Samuelson, Paul']
+  tags: ['knowledge', 'commons']
+#
