@@ -164,7 +164,7 @@
   
    * _Le Rêve zapatiste, entretiens avec le sous-commandant Marcos_
 
-- [[http://fr.wikipedia.org/wiki/Bouveresse|Bouveresse, Jacques]]
+- [Bouveresse, Jacques](http://fr.wikipedia.org/wiki/Bouveresse)
 
 - (De La) Boetie, Etienne
   
@@ -172,11 +172,13 @@
 
 - Bordas, Nicolas
   
-   * L'idée qui tue ! : Politique, business, culture... Les secrets des idées qui durent
+   * _L'idée qui tue ! : Politique, business, culture... Les secrets des idées qui durent_
+
 * Bronner, Gérald 
   
-   * La démocratie des crédules
-   * La pensée extrême. Comment des hommes ordinaires deviennent des fanatiques
+   * _La démocratie des crédules_
+   * _La pensée extrême. Comment des hommes ordinaires deviennent des fanatiques_
+
 - Brossat Alain
   
    * _Tous coupat tous coupables_ [antiviolence, democratie, domination]
@@ -244,7 +246,7 @@
   
    * _De la guerre_
 
-- (De) Cleyre, Voltairine (POL, ANAR, FEM)
+- (De) Cleyre, Voltairine - [#politics](#politics) [#anarchism](#anarchism) [#feminism](#feminism)
 
 ## D
 
@@ -566,13 +568,13 @@
   
    * _Histoire de la Commune de 1871_
 
-* Lordon (ECO)
+* Lordon - [#economy](#economy)
   
-   * "Imperium" (reflexion sur la relation entre l'horizontal et le vertical)
+   * _Imperium_ (reflexion sur la relation entre l'horizontal et le vertical)
 
 * Luxemburg, Rosa 
   
-   * Introduction à l'économie politique (1925) ([Lire en ligne](http://www.jutier.net/contenu/rosalux.htm))
+   * _Introduction à l'économie politique (1925)_ ([Lire en ligne](http://www.jutier.net/contenu/rosalux.htm))
 
 ## M
 
@@ -625,7 +627,7 @@
 
 * Mazet, Sophie
   
-   * "Manuel d’autodéfense intellectuelle" éd. Robert Laffont, Sept. 2015
+   * _Manuel d’autodéfense intellectuelle_, Ed. Robert Laffont, Sept. 2015
 
 * Michéa, Jean-Claude
   
@@ -641,7 +643,7 @@
 
 * Millet, Kate
   
-   * La politique du Mâle" (#feminism)
+   * _La politique du Mâle_ [#feminism](#feminism)
 
 * More, Thomas, (1478-1535)
   
