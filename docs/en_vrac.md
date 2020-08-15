@@ -908,12 +908,12 @@
 
 ## Y
 
-* Yamamoto, Jōchō
+* [Yamamoto, Jōchō](https://fr.wikipedia.org/wiki/Yamamoto_Tsunetomo)
    * _[Hagakure](http://fr.wikipedia.org/wiki/Hagakure)_
 
 ## Z
 
-- Zizek, Slavoj (PHI)
+- [Zizek, Slavoj](https://fr.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) [#philosophy] [#marxism]
 
 <!-- 
 ## _ 
