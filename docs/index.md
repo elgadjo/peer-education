@@ -9,7 +9,7 @@ Quelques ressources sur divers sujets du monde :-)
 ## Pour contribuer 
 
 Envoyez à [elgadjo@protonmail.ch](mailto:elgadjo@protonmail.ch) un email avec
-les références (libres, podcast, etc.) que vous souhaitez voir ajoutées et les
+les références (livres, podcast, etc.) que vous souhaitez voir ajoutées et les
 thématiques concernes.
 
 ## Derniers changements
