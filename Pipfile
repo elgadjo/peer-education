@@ -9,4 +9,4 @@ verify_ssl = true
 mkdocs = "*"
 
 [requires]
-python_full_version = "3.7.2"
+python_version = "3.7"
