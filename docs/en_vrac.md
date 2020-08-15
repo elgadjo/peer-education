@@ -914,6 +914,7 @@
 ## Z
 
 - [Zizek, Slavoj](https://fr.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) [#philosophy] [#marxism]
+   * _[The Sublime Object of Ideology](https://en.wikipedia.org/wiki/The_Sublime_Object_of_Ideology)_
 
 <!-- 
 ## _ 
