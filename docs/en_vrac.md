@@ -1,7 +1,8 @@
 # Politique, Droit, Sociologie & Philo
 
 * Francis Dupuis-Déri
-   * Démocratie, histoire politique d'un mot.
+   * <i class="fa fa-book"></i> 
+     _Démocratie, histoire politique d'un mot_.
 
 ## Anonyme et collectifs et multi-auteurs
 
