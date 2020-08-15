@@ -1,0 +1,42 @@
+---
+name: Deploy to Github Pages
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
+          git checkout $GITHUB_SHA
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+      - name: Install prerequisistes
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+      - name: Setup git config
+        run: |
+          git config --global user.email "github@example.com"
+          git config --global user.name "Github Action"
+      - name: Cleanup
+        run: |
+          git worktree remove -f _site || true
+          rm -rf _site/ || true
+      - name: Link to branch
+        run: |
+          git worktree add -B gh-pages _site origin/gh-pages || true
+      - name: Build
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build
+      - name: Commit an dpush online
+        run: |
+          cd _site
+          git add --all
+          git commit -m "`date`"
+          git push -f origin gh-pages
+          cd ..
+
