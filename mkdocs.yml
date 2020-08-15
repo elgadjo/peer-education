@@ -1,4 +1,4 @@
-site_name: Education populaire
+site_name: Éducation populaire
 
 # theme_dir: 'themes/mkdocs-material/material'
 # theme_dir: 'themes/mkdocs-material'
@@ -21,15 +21,15 @@ theme:
     prev: 'Chapitre précédent'
     next: 'Chapitre suivant'
 
-extra_css: 
+extra_css:
   - css/extra.css
 
-extra_javascript: 
+extra_javascript:
   - js/extra.js
 
-#author:
-#  github: 'elgadjo'
-#  twitter: 'elgadjo'
+# author:
+#   github: 'elgadjo'
+#   twitter: 'elgadjo'
 
 # Extensions
 markdown_extensions:
@@ -41,9 +41,9 @@ markdown_extensions:
   - codehilite:
       guess_lang: false
   - mdx_truly_sane_lists  # pip install mdx_truly_sane_lists
-  - pymdownx.emoji: # pip install pymdown-extensions
+  - pymdownx.emoji:  # pip install pymdown-extensions
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.superfences: # pip install pymdown-extensions
+  - pymdownx.superfences:  # pip install pymdown-extensions
 
 
 nav:
@@ -56,4 +56,3 @@ nav:
   - 'Politique': politique.md
   - 'Vrac (à trier)': en_vrac.md
 
-#- 'Écologie': ecologie.md
