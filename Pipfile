@@ -9,6 +9,7 @@ verify_ssl = true
 mkdocs = "*"
 mdx-truly-sane-lists = "*"
 pymdown-extensions = "*"
+mkdocs-material = "*"
 
 [requires]
 python_version = "3.7"
