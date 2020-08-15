@@ -47,14 +47,14 @@ markdown_extensions:
   - pymdownx.superfences: # pip install pymdown-extensions
 
 
-pages: 
-- 'Accueil': index.md
-- 'Économie': economie.md
-- 'Éducation': education.md
-- 'Environnement': environnement.md
-- 'Identités': identites.md
-- 'Monnaie': monnaie.md
-- 'Politique': politique.md
-- 'Vrac': en_vrac.md
+nav:
+  - 'Accueil': index.md
+  - 'Économie': economie.md
+  - 'Éducation': education.md
+  - 'Environnement': environnement.md
+  - 'Identités': identites.md
+  - 'Monnaie': monnaie.md
+  - 'Politique': politique.md
+  - 'Vrac': en_vrac.md
 
 #- 'Écologie': ecologie.md
