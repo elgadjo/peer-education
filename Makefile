@@ -21,4 +21,4 @@ build:
 
 install:
 	git push
-	pipenv run mkdocs gh-deploy
+	pipenv run mkdocs gh-deploy --remote-branch=gh-pages
