@@ -1,0 +1,29 @@
+---
+# - name:
+#   works:
+#     - title:
+#       year:
+#       type: book
+#       tags: []
+#     - title:
+#       year:
+#       type: book
+#       tags: []
+
+- title: "Thermodynamique de l’évolution: un essai de thermo-bio-sociologie"
+  authors: ['Roddier, François']
+  tags: ['climate', 'sociology', 'physics', 'science', 'thermodynamics']
+  type: book
+
+- authors: ['Samuelson, Paul']
+  tags: ['knowledge', 'commons']
+
+- authors: ['Tuaillon, Victoire']
+  type: podcast
+  collection: "Les couilles sur la table"
+  title: "Le patriarcat contre la planète"
+  url: "https://www.binge.audio/podcast/les-couilles-sur-la-table/le-patriarcat-contre-la-planete"
+
+
+#
+#
