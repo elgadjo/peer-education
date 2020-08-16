@@ -1,29 +1,48 @@
 ---
-# - name:
-#   works:
-#     - title:
-#       year:
-#       type: book
-#       tags: []
-#     - title:
-#       year:
-#       type: book
-#       tags: []
 
-- title: "Thermodynamique de l’évolution: un essai de thermo-bio-sociologie"
+- title: "Thermodynamique de l’évolution : un essai de thermo-bio-sociologie"
   authors: ['Roddier, François']
   tags: ['climate', 'sociology', 'physics', 'science', 'thermodynamics']
   type: book
 
-- authors: ['Samuelson, Paul']
-  tags: ['knowledge', 'commons']
-
-- authors: ['Tuaillon, Victoire']
+- title: Le patriarcat contre la planète
+  authors: ['Tuaillon, Victoire']
+  collection: Les couilles sur la table
   type: podcast
-  collection: "Les couilles sur la table"
-  title: "Le patriarcat contre la planète"
-  url: "https://www.binge.audio/podcast/les-couilles-sur-la-table/le-patriarcat-contre-la-planete"
+  url: https://www.binge.audio/podcast/les-couilles-sur-la-table/le-patriarcat-contre-la-planete
 
+- title: "Être écoféministe : théories et pratiques"
+  author: ["Burgart-Goutal, Jeanne"]
+  editor: L’Echappée
+  year: 2020
+  type: book
 
-#
+- title: "Gazer, mutiler soumettre : Politique de l’arme non létale"
+  authors: ["Rocher, Paul"]
+  editor: La fabrique
+  url: https://lafabrique.fr/gazer-mutiler-soumettre/
+  type: book
+
+- title: "Police"
+  authors:
+    - Bentounsi, Amal
+    - Bernanos, Antonin
+    - Coupat, Julien
+    - Dufresne, David
+    - Hazan, Eric
+    - Lordon, Frédéric
+  editor: La fabrique
+  type: book
+
+- title: "Les besoins artificiels : Comment sortir du consumérisme"
+  authors:
+    - Keucheyan, Razmig
+  tags: ['consumption', 'ecology']
+  url: https://www.editions-zones.fr/livres/les-besoins-artificiels/
+
+- title: "La nature est un champ de bataille : Essai d'écologie politique"
+  authors:
+    - Keucheyan, Razmig
+  url: https://www.editions-zones.fr/livres/la-nature-est-un-champ-de-bataille/
+
 #

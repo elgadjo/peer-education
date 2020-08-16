@@ -1,4 +1,11 @@
 ---
 
-- name: "Tuaillon, Victoire"
+- name: Tuaillon, Victoire
+
+- name: Burgart-Goutal, Jeanne
+  desc: Agrégée de philosophie et professeure de yoga
+  tags: ['philosophy', 'yoga']
+
+- name: Samuelson, Paul
+  tags: ['knowledge', 'commons']
 
