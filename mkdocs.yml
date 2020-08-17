@@ -45,6 +45,11 @@ markdown_extensions:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.superfences:  # pip install pymdown-extensions
 
+plugins:
+  - macros:
+      include_dir: _include
+  - markdownextradata:
+      data: _data
 
 nav:
   - 'Accueil': index.md

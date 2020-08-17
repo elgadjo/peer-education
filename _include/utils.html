@@ -1,0 +1,41 @@
+{% macro mkwork(work) -%}
+* {% if work.type %}<i class="fa fa-{{ work.type }}"></i>{% endif %}
+  {{ work.authors|default(['Anonymous'])|sort|join(' & ') }}, 
+  _{{ work.title }}_
+  {% if work.editor %}, Ed. {{ work.editor }}{% endif %}
+  {% if work.year %}, {{ work.year }}{% endif %}
+  {% if work.url %}([Lire en ligne]({{ work.url }})){% endif %}
+{%- endmacro %}
+
+{% macro works_for(topic, authors, works) -%}
+{% set authors = [] %}
+{% for work in works %}
+{% if topic in work.tags %}
+{{ mkwork(work) }}
+{% endif %}
+{% endfor %}
+{%- endmacro %}
+
+ 
+{% macro authors_for(topic, authors, works) -%}
+{% set ns = namespace(exclude_authors=[]) %}
+{% for work in works %}
+	{% if topic in work.tags %}
+		{% for author in work.authors|default([]) %}
+			{% if not author in ns.exclude_authors %}
+				{% set ns.exclude_authors = ns.exclude_authors + [author] %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+{% endfor %}
+
+{% for author in authors %}
+{% if topic in author.tags %}
+{% if not author in ns.exclude_authors %}
+* <i class="fa fa-user"></i>
+  {{ author.name }}, {{ author.desc }}
+{% endif %}
+{% endif %}
+{% endfor %}
+{%- endmacro %}
+

@@ -10,6 +10,8 @@ mkdocs = "*"
 mdx-truly-sane-lists = "*"
 pymdown-extensions = "*"
 mkdocs-material = "*"
+mkdocs-markdownextradata-plugin = "*"
+mkdocs-macros-plugin = "*"
 
 [requires]
 python_version = "3.7"
