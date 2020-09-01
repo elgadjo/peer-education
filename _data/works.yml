@@ -63,4 +63,39 @@
   editor: Ré-organisation du monde
   year: 2019
   type: book
-#
+
+- title: "Classer, dominer : qui sont les « autres » ?"
+  tags: ['feminism']
+  authors:
+    - Delphy, Christine
+  editor: La Fabrique
+  year: 2008
+
+- title: "Dominique Bourg"
+  tags: ['ecology', 'climate', 'politics', 'democracy']
+  authors:
+    - Bourg, Dominique
+  url: https://theswissbox.org/2019/09/dominique-bourg/
+  editor: The Swissbox Conversation
+  year: 2019
+
+- title: "L'homme nu : la dictature invisible du numérique"
+  tags: []
+  authors:
+    - Dugain, Marc
+    - Labbé, Christophe
+
+- title: "La chambre des officiers"
+  tags: []
+  authors:
+    - Dugain, Marc
+
+- title: "Ils vont tuer Robert Kennedy"
+  tags: []
+  authors:
+    - Dugain, Marc
+
+- title: "Ils vont tuer Robert Kennedy"
+  tags: []
+  authors:
+
