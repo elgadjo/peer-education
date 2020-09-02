@@ -1,4 +1,6 @@
 ---
+# Disable yamllint rules
+# yamllint disable rule:line-length
 
 - title: "Thermodynamique de l’évolution : un essai de thermo-bio-sociologie"
   authors: ['Roddier, François']
@@ -99,3 +101,28 @@
   tags: []
   authors:
 
+- title: "Du bon usage de la torture: Ou comment les démocraties justifient l'injustifiable"
+  tags: []
+  authors:
+    - Terestchenko, Michel
+  editor: La Découverte
+
+- title: "Un si fragile vernis d’humanité. Banalité du mal, banalité du bien"
+  tags: []
+  authors:
+    - Terestchenko, Michel
+  editor: La Découverte
+
+- title: "Le zéro et l'infini"
+  tags: []
+  authors:
+    - Koestler, Arthur
+
+- title: "Humanisme et terreur"
+  authors:
+    - Merleau-Ponty, Maurice
+
+- title: "Le savant et le politique"
+  authors:
+    - Weber, Max
+#
